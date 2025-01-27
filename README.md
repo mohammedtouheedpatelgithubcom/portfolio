@@ -1,2 +1,2 @@
 # portfolio
-my cybersecurity and other experiences at one place
+my portfolio and other experiences at one place
