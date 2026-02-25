@@ -1,0 +1,13 @@
+# Generated recording artifacts
+*.zoom
+zoomver.tag
+recording.conf
+
+# Optional local media exports (uncomment if you don't want to track videos)
+# *.mp4
+# *.m4a
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
